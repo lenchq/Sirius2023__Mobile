@@ -67,7 +67,7 @@ flutter:
   fonts:
     - family: AppIcons
       fonts:
-        - asset: assets/fonts/AppIcons.otf
+        - asset: assets/fonts/AppIcons.ttf
     - family: Aeroport
       fonts:
         - asset: assets/fonts/Aeroport-Medium.ttf

@@ -72,6 +72,9 @@ class PromoInput extends StatelessWidget {
                           ),
                           border: InputBorder.none,
                         ),
+                        style: TextStyle(
+                          color: AppColors.secondLabel
+                        )
                       )
                   )
               ),
